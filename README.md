@@ -51,9 +51,10 @@ This project is built using semantic, standard web technologies to ensure longev
 
 ```bash
 /
-├── index.html       # Main content and markup
-├── style.css        # Styling and Theme definitions
-├── script.js        # Logic for Theme Toggling
+├── index.html       # Main landing page markup (SEO, OG, JSON-LD)
+├── style.css        # Styling, themes (dark/light), layout
+├── script.js        # Theme toggle logic and small UI behavior
+├── og-image.png     # Open Graph image for social sharing previews
 └── README.md        # Project documentation
 ```
 
